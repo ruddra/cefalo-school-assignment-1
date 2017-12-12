@@ -8,9 +8,9 @@ import AirBnB from './AirBnb';
 class App extends Component {
     render() {
         return (
-            //<HelloWorld />
+            <HelloWorld />
             //<Greetings name={'kamarul'}/>
-            <AirBnB />
+            // <AirBnB />
             // <ClockApp />
         );
     }
